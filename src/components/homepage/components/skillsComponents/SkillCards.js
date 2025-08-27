@@ -2,7 +2,6 @@ import { Flex } from "@chakra-ui/react"
 import React from "react"
 import { SiReact, SiJavascript, SiHtml5, SiCss3, SiNodedotjs, SiSass, SiBootstrap, SiMongodb, SiExpress, SiPython, SiInsomnia, SiDjango, SiPostgresql, SiHeroku, SiNetlify, SiGithub, SiYarn, SiNpm } from 'react-icons/si'
 
-
 import Card from "./Card"
 
 const SkillsCards = ({ subColor }) => {
