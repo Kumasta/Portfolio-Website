@@ -1,6 +1,9 @@
-import React from "react";
-import { Image, HStack, Text } from "@chakra-ui/react";
-import DarkModeToggle from "./DarkModeToggle";
+import React from "react"
+import {
+  Image, HStack,
+  // Text
+} from "@chakra-ui/react"
+import DarkModeToggle from "./DarkModeToggle"
 
 import icon from '../../../assets/MKDevIcon.png'
 
@@ -19,5 +22,5 @@ export default function Logo(props) {
       </Text> */}
       <DarkModeToggle />
     </HStack>
-  );
+  )
 }

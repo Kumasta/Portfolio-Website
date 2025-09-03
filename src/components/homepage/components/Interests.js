@@ -14,7 +14,7 @@ const Interests = ({ subColor }) => {
         {
             name: 'Food & Cooking',
             icon: GiCookingPot,
-            summary: 'I have always been fond of cooking since I was very young and it has now become a pastime I enjoy a lot especially when I have time to go all out on a big cooking project. My old staple dish for many years was pasta (cooked many times during university of course), but through self teaching and many youtube videos I have branched out into other cuisines.',
+            // summary: 'I have always been fond of cooking since I was very young and it has now become a pastime I enjoy a lot especially when I have time to go all out on a big cooking project. My old staple dish for many years was pasta (cooked many times during university of course), but through self teaching and many youtube videos I have branched out into other cuisines.',
             sections: [
                 {
                     pic: 'https://res.cloudinary.com/dv2dfzekf/image/upload/v1649091949/wx_camera_1588261855562_g4oym8.jpg',

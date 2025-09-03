@@ -1,9 +1,9 @@
 import React from "react"
 import { Button, Collapse, VStack, Text, Image, HStack, Heading, useDisclosure, Divider, useColorModeValue, AspectRatio, UnorderedList, ListItem } from '@chakra-ui/react'
-import { GiCookingPot } from 'react-icons/gi'
-import { MdOutlinePodcasts } from 'react-icons/md'
-import { IoGameController } from 'react-icons/io'
-import { FaYoutube } from 'react-icons/fa'
+// import { GiCookingPot } from 'react-icons/gi'
+// import { MdOutlinePodcasts } from 'react-icons/md'
+// import { IoGameController } from 'react-icons/io'
+// import { FaYoutube } from 'react-icons/fa'
 import Fade from 'react-reveal/Fade'
 import { HashLink } from "react-router-hash-link"
 
